@@ -1,4 +1,3 @@
-<h1 align="center">Hi 👋, I'm Mauricio Núñez</h1>
 <h3 align="center">A passionate Full-Stack developer from Chile</h3>
 
 - 📫 How to reach me **mauro_1995@live.com**
