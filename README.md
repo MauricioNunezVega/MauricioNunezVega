@@ -19,16 +19,17 @@
   <img align="center" alt="Mauro-Oracle" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg">
   <img align="center" alt="Mauro-Docker" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
   <img align="center" alt="Mauro-GitHub" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
+  <img align="center" alt="Mauro-Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
 </div>
 
  ##
- <div> 
- <a href = "mailto:mauro_1995@live.com"><img src="https://img.shields.io/badge/-Hotmail-%230077B5?style=for-the-badge&logo=&logoColor=white"></a>
+<div> 
+ <a href = "mailto:mauro_1995@live.com"><img src="https://img.shields.io/badge/-Outlook-%230077B5?style=for-the-badge&logo=microsoft&logoColor=white%22%20target=%22_blank"></a>
  <a href="https://www.linkedin.com/in/mauricionunezvega" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- </div>
+</div>
   
  ##
-![snake svg](https://github.com/MauricioNunezVega/.github/blob/output/github-contribution-grid-snake.svg)
+ ![snake svg](https://github.com/MauricioNunezVega/.github/blob/output/github-contribution-grid-snake.svg)
   
   
   
